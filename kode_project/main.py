@@ -4,7 +4,7 @@
 #  SISTEM ANTREAN & MANAJEMEN PASIEN RUMAH SAKIT
 # ============================================================
 from Arif_1 import Patient, Queue, Stack, Aksi, PRIORITAS_LABEL
-from anggota2 import BST
+from heap_mahardika import BST
 from anggota3 import BinaryHeap
 
 
