@@ -68,4 +68,4 @@ class BinaryHeap:
             print("   (antrean triase kosong)")
             return
         for idx, p in enumerate(self.data):
-            print(f"   [{idx}] {p}")  
+            print(f"   [{idx}] {p}") 
